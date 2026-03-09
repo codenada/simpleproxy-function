@@ -1,6 +1,6 @@
 # simpleproxy-function
 
-Generated from core repo commit 01a684eb20ed22dd8d5749448b1269bef8e50d4a.
+Generated from core repo commit 5fab20a0a2f8b9e75702bd597ff60284c1c6ef0d.
 
 Entrypoint: src/runtime_entry.js
 Deploy: npm run deploy
