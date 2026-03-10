@@ -1,4 +1,4 @@
-name = "simpleproxy-function"
+name = "simpleproxy-function-2"
 main = "src/runtime/runtime_entry.js"
 compatibility_date = "2026-03-01"
 workers_dev = true
