@@ -1,6 +1,6 @@
 # simpleproxy-function
 
-Generated from core repo commit cf25ccad2aee1c70bb7540ea27b19a50976e9dcf.
+Generated from core repo commit 69c811d1f3186d05a42f0a3fdaa19d327222e349.
 
 Entrypoint: src/runtime/runtime_entry.js
 Deploy: npx wrangler deploy
